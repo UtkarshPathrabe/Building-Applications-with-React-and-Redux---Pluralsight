@@ -13,7 +13,7 @@ class CoursesPage extends Component {
     this.setState({course});
   };
 
-  handleSubmit = (event) => {
+  handleSubmit = event => {
     event.preventDefault();
     alert(this.state.course.title);
   };
