@@ -69,7 +69,7 @@ const formatCourseData = (state) => {
 
 const mapStateToProps = (state) => {
 	return {
-		courses: state.authors.length !== 0 ? formatCourseData(state) : [],
+		courses: state.authors.length === 0 ? [] : formatCourseData(state),
 		authors: state.authors,
 		loading: state.apiCallsInProgress > 0,
 	};
