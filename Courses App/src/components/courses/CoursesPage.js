@@ -11,17 +11,18 @@ class CoursesPage extends Component {
 		},
 	};
 
-	handleChange = (event) => {
-		const course = { ...this.state.course, title: event.target.value };
-		this.setState({ course });
+	handleChange = ({ target: { value } }) => {
+		this.setState((prevState) => ({
+			course: { ...prevState.course, title: value },
+		}));
 	};
 
 	handleSubmit = (event) => {
 		event.preventDefault();
 		this.props.actions.createCourse(this.state.course);
-		this.setState({
-			course: { ...this.state.course, title: '' },
-		});
+		this.setState((prevState) => ({
+			course: { ...prevState.course, title: '' },
+		}));
 	};
 
 	render() {
