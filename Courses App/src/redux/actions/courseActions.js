@@ -2,22 +2,22 @@ import * as types from './actionTypes';
 import * as courseApi from '../../api/courseApi';
 import { beginApiCall, apiCallError } from './apiStatusActions';
 
-const loadCoursesSuccess = (courses) => ({
+export const loadCoursesSuccess = (courses) => ({
 	type: types.LOAD_COURSES_SUCCESS,
 	courses,
 });
 
-const updateCourseSuccess = (course) => ({
+export const updateCourseSuccess = (course) => ({
 	type: types.UPDATE_COURSE_SUCCESS,
 	course,
 });
 
-const createCourseSuccess = (course) => ({
+export const createCourseSuccess = (course) => ({
 	type: types.CREATE_COURSE_SUCCESS,
 	course,
 });
 
-const deleteCourseOptimistic = (course) => ({
+export const deleteCourseOptimistic = (course) => ({
 	type: types.DELETE_COURSE_OPTIMISTIC,
 	course,
 });
