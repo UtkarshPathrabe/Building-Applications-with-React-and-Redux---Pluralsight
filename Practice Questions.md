@@ -167,3 +167,17 @@ B. A function that empties the local data store
 C. A function that takes state and an action and returns state.  
 D. An object that serializes actions  
 Answer: `A function that takes state and an action and returns state.`  
+
+Q25. When is Enzyme’s mount function useful?  
+A. When you don’t need the DOM  
+B. When you want to minimize memory use  
+C. When you want to maximize test speed  
+D. When you want to test React component interactions  
+Answer: `When you want to test React component interactions`  
+
+Q26. What is forbidden in a Redux Reducer?  
+A. Side-effects  
+B. Performing arithmetic  
+C. Copying data  
+D. Calling other functions  
+Answer: `Side-effects`  
