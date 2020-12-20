@@ -209,3 +209,10 @@ B. A function that returns another function to delay execution
 C. An object that iterates over an array  
 D. A function that accepts no parameters  
 Answer: `A function that returns another function to delay execution`  
+
+Q31. How did we configure our ESLint rules?  
+A. .eslintrc  
+B. ESLint XML  
+C. eslint.config  
+D. Fluent API  
+Answer: `.eslintrc`  
