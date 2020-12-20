@@ -70,3 +70,17 @@ B. Middleware
 C. Array mutation bundling  
 D. A custom render function  
 Answer: Middleware  
+
+Q11. How does state management in Redux differ from Flux?  
+A. Only Redux has actions  
+B. Flux only uses one store  
+C. Only Flux has reducers  
+D. State is immutable in Redux  
+Answer: State is immutable in Redux  
+
+Q12. What npm package did we use to run parallel processes?  
+A. npm-multi  
+B. npm-run-all  
+C. node-parallel  
+D. npm-parallel  
+Answer: npm-run-all  
