@@ -195,3 +195,17 @@ B. Unit
 C. User-acceptance  
 D. Integration  
 Answer: `Integration`  
+
+Q29. Why did we create an HTML build script?  
+A. To provide a separate look for production  
+B. To support a separate CSS file in production  
+C. To minify our CSS  
+D. To run our tests  
+Answer: `To minify our CSS`  
+
+Q30. What is a thunk?  
+A. A component that fails at runtime  
+B. A function that returns another function to delay execution  
+C. An object that iterates over an array  
+D. A function that accepts no parameters  
+Answer: `A function that returns another function to delay execution`  
