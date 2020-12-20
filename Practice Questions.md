@@ -125,3 +125,17 @@ B. The setInitialState function
 C. The getInitialState function  
 D. The initialState property  
 Answer: The class constructor  
+
+Q19. What React feature is disabled when built in production mode?  
+A. State recursion  
+B. PropType validation  
+C. Element identity  
+D. Event delegation  
+Answer: PropType validation  
+
+Q20. What library did we use to handle asynchrony in Redux?  
+A. Redux-thunk  
+B. Redux-saga  
+C. Redux-promise  
+D. Redux-async  
+Answer: Redux-thunk  
