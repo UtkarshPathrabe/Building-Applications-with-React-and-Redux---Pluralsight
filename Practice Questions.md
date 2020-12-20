@@ -181,3 +181,17 @@ B. Performing arithmetic
 C. Copying data  
 D. Calling other functions  
 Answer: `Side-effects`  
+
+Q27. How do React’s ES6 class-based components differ from ES5 createClass components?  
+A. ES5 createClass style components use less memory  
+B. ES6 class-based components offer built in form validation logic  
+C. ES6 class-based components do not autobind  
+D. ES6 class-based components render faster  
+Answer: `ES6 class-based components do not autobind`  
+
+Q28. What type of test was our store test?  
+A. Performance  
+B. Unit  
+C. User-acceptance  
+D. Integration  
+Answer: `Integration`  
