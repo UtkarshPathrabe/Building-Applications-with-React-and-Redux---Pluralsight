@@ -28,3 +28,18 @@ B. They enforce proper data formatting in production
 C. They enhance performance  
 D. They reduce memory consumption  
 Answer: They provide runtime warnings in development  
+
+Q5. Where did we run our tests?  
+A. PhantomJS  
+B. Karma  
+C. In Browser  
+D. In memory DOM via Node  
+Answer: In memory DOM via Node  
+
+Q6. What property is required on all actions?  
+A. data  
+B. type  
+C. payload  
+D. value  
+Answer: type  
+
