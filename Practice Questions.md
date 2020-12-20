@@ -139,3 +139,17 @@ B. Redux-saga
 C. Redux-promise  
 D. Redux-async  
 Answer: Redux-thunk  
+
+Q21. What is an action creator?  
+A. A pattern for generating DOM events  
+B. A class that generates functions  
+C. A recursive function that emits actions in a loop  
+D. A function that returns an object with a type property and some optional data  
+Answer: A function that returns an object with a type property and some optional data  
+
+Q22. How is Webpack configured?  
+A. Via webpackrc  
+B. Via webpack.com  
+C. Via JSON in webpack.config.js  
+D. Via XML in webpack.xml  
+Answer: Via JSON in webpack.config.js  
