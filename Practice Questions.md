@@ -43,3 +43,17 @@ C. payload
 D. value  
 Answer: type  
 
+Q7. What is a benefit of using React’s stateless functional components?  
+A. Provides access to all of React’s lifecycle methods  
+B. More terse syntax  
+C. Utilizes ES6 classes  
+D. Prop Types are automatically generated  
+Answer: More terse syntax  
+
+Q8. Which test did the author find to be least useful?  
+A. Reducer  
+B. Action creator  
+C. Connected Component  
+D. Store  
+Answer: Action creator  
+
