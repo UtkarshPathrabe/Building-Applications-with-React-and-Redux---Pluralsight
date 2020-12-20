@@ -98,3 +98,16 @@ B. XML
 C. Comma Delimited  
 D. Pipe Delimited  
 Answer: JSX  
+
+Q15. What does it mean when a data structure is immutable?  
+A. It cannot be copied  
+B. It cannot be destructured  
+C. It cannot be changed  
+D. It cannot be passed to a function  
+Answer: It cannot be changed  
+
+Q16. What is a benefit of shallow rendering?  
+A. You can test a component in isolation  
+B. You can generate tests automatically  
+C. You have more power than traditional rendering  
+Answer: You can test a component in isolation  
