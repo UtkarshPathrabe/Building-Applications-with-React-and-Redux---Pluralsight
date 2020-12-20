@@ -153,3 +153,17 @@ B. Via webpack.com
 C. Via JSON in webpack.config.js  
 D. Via XML in webpack.xml  
 Answer: `Via JSON in webpack.config.js`  
+
+Q23. Which statement describes a presentational component?  
+A. Subscribes to Redux state  
+B. Focused on how things look  
+C. Aware of Redux  
+D. Dispatches Redux actions  
+Answer: `Focused on how things look`  
+
+Q24. What is a reducer?  
+A. An object that removes user access rights  
+B. A function that empties the local data store  
+C. A function that takes state and an action and returns state.  
+D. An object that serializes actions  
+Answer: `A function that takes state and an action and returns state.`  
