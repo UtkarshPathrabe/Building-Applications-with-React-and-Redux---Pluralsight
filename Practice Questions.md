@@ -84,3 +84,17 @@ B. npm-run-all
 C. node-parallel  
 D. npm-parallel  
 Answer: npm-run-all  
+
+Q13. What is the mapStateToProps function for?  
+A. It implements two-way binding  
+B. It describes what actions to provide on props  
+C. It initializes event handlers in the constructor  
+D. It declares what state to provide on props  
+Answer: It declares what state to provide on props  
+
+Q14. How are routes defined in React Router?  
+A. JSX  
+B. XML  
+C. Comma Delimited  
+D. Pipe Delimited  
+Answer: JSX  
