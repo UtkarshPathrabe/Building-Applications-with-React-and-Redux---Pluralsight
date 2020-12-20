@@ -111,3 +111,17 @@ A. You can test a component in isolation
 B. You can generate tests automatically  
 C. You have more power than traditional rendering  
 Answer: You can test a component in isolation  
+
+Q17. How did we test a React component that was connected to Redux?  
+A. We exported the raw component and tested it instead  
+B. We refactored connect to be public  
+C. We attached a debugger to the connect function  
+D. We used Redux’s test adapter library  
+Answer: We exported the raw component and tested it instead  
+
+Q18. Where do you declare initial state in React’s ES6 Class style components?  
+A. The class constructor  
+B. The setInitialState function  
+C. The getInitialState function  
+D. The initialState property  
+Answer: The class constructor  
